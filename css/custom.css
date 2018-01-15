@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-image: url(../img/BG.png);
+	background-position: center;
+}
+
+
+
+footer{
+	background-color: #444444;
+	padding: .5% 2%;
+	color: #fff;
+	margin: 30px 0;
+	text-align: center;
+}
+
+.logo{
+	margin: 10% 4% 4% 4%;
+}
+
+.banner{
+	margin: 10% 4% 4% 4%;
+}
+
+.jumbotron {
+	background-image: url( ../img/jumbobg.png);
+		
+}
+
+.jumbotron h1 {
+	color: white;
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.jumbotron p { 
+	color: white;
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+
+	
+
+
+}
+h4 {
+	text-align: center;
+	
+}
+
+.box1, .box2, .box3, .box4 {
+	color: white;
+}
+blockquote {
+	color: #49088D;
+}
+
+.aa, .aap {
+	color: white;
+}
+
+.table {
+	color: white;
+	
+}
+
+.tabs {
+	color: white;
+}
+
+.nav {
+	background-color: #383434;
+}
+
+.img1, .img2, .img3, .img4 {
+	background-color: #383434;
+	padding: 7px;
+	
+}
